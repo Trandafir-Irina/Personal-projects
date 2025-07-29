@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9025: overriding '/openmp' with '/openmp:llvm'
+  Source (1).cpp
+C:\Users\Trandafir Irina\Downloads\Source (1).cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Trandafir Irina\Downloads\Source (1).cpp(45,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Trandafir Irina\Downloads\Source (1).cpp(49,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Trandafir Irina\Downloads\Source (1).cpp(75,9): warning C4068: unknown pragma 'critical'
+  Tema2.vcxproj -> C:\Users\Trandafir Irina\Desktop\Procesare paralela\Teme\Tema2\x64\Debug\Tema2.exe
