@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: miercuri, 22 ianuarie 2025 06:42:09</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\Users\Trandafir Irina\Desktop\Sisteme informatice geografice\Proiect\ProiectGIS\ProiectGIS.atbx\Script.tool\tool.script.execute.py", line 96, in &lt;module&gt;
+﻿  File "C:\Users\Trandafir Irina\Desktop\Sisteme informatice geografice\Proiect\ProiectGIS\ProiectGIS.atbx\Script.tool\tool.script.execute.py", line 43, in aplica_simbologie
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\_symbology.py", line 212, in applySymbolFromGallery
+﻿    self._arc_object.applySymbolFromGallery(*gp_fixargs((wildcard, index), True)))
+﻿    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿TypeError: index out of range
+</msg><msg code="0" type="0">Failed script Script...</msg><msg code="-2147467259" type="100">Failed to execute (Script).</msg><msg code="0" type="3">Failed at miercuri, 22 ianuarie 2025 06:42:23 (Elapsed Time: 14,58 seconds)</msg></messages>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: miercuri, 22 ianuarie 2025 07:14:49</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\Users\Trandafir Irina\Desktop\Sisteme informatice geografice\Proiect\ProiectGIS\ProiectGIS.atbx\Script.tool\tool.script.execute.py", line 70, in &lt;module&gt;
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\analysis.py", line 1699, in Buffer
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\analysis.py", line 1681, in Buffer
+﻿    gp.Buffer_analysis(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+WARNING 000725: Output Feature Class: Dataset C:\Users\Trandafir Irina\Desktop\Sisteme informatice geografice\Seminarii\H_Ro.gdb\uni_bf already exists.
+ERROR 000800: The value is not a member of Full.
+Failed to execute (Buffer).
+
+</msg><msg code="0" type="0">Failed script Script...</msg><msg code="-2147467259" type="100">Failed to execute (Script).</msg><msg code="0" type="3">Failed at miercuri, 22 ianuarie 2025 07:14:50 (Elapsed Time: 1,42 seconds)</msg></messages>

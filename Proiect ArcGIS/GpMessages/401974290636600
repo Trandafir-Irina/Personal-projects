@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: miercuri, 22 ianuarie 2025 07:15:33</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "C:\Users\Trandafir Irina\Desktop\Sisteme informatice geografice\Proiect\ProiectGIS\ProiectGIS.atbx\Script.tool\tool.script.execute.py", line 70, in &lt;module&gt;
+﻿TypeError: Buffer() got an unexpected keyword argument 'DisolveType'
+</msg><msg code="0" type="0">Failed script Script...</msg><msg code="-2147467259" type="100">Failed to execute (Script).</msg><msg code="0" type="3">Failed at miercuri, 22 ianuarie 2025 07:15:34 (Elapsed Time: 0,83 seconds)</msg></messages>
